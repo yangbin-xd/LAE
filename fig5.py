@@ -62,9 +62,9 @@ RadioMap_nmse1 = np.array([0.0549, 0.0288, 0.0184, 0.0144, 0.0115, 0.0116, 0.010
 
 plt.figure(figsize=(7, 5))
 plt.plot(v, LS_nmse1, color='#F65314', marker = '^', markersize=10, lw=2, label='LS')
-plt.plot(v, ChannelNet_nmse1, color='#FFBB00', marker = 'o', markersize=10, lw=2, label='ChannelNet [23]')
-plt.plot(v, cgan_nmse1, color='#7CBB00', lw=2, marker = 's', markersize=10, label='CGAN [29]')
-plt.plot(v, LSTM_nmse1, color='#00A1F1', lw=2, marker = 'd', markersize=10, label='DNN+LSTM [24]')
+plt.plot(v, ChannelNet_nmse1, color='#FFBB00', marker = 'o', markersize=10, lw=2, label='ChannelNet [24]')
+plt.plot(v, cgan_nmse1, color='#7CBB00', lw=2, marker = 's', markersize=10, label='CGAN [31]')
+plt.plot(v, LSTM_nmse1, color='#00A1F1', lw=2, marker = 'd', markersize=10, label='DNN+LSTM [25]')
 plt.plot(v, RadioMap_nmse1, color='#68217A', lw=2, marker = 'p', markersize=10, label='Radio Map')
 
 plt.xticks(np.arange(0,31,5))
@@ -88,9 +88,9 @@ RadioMap_nmse1 = np.array([0.0579, 0.0311, 0.0201, 0.0158, 0.0126, 0.0128, 0.011
 
 plt.figure(figsize=(7, 5))
 plt.plot(v, LS_nmse1, color='#F65314', marker = '^', markersize=10, lw=2, label='LS')
-plt.plot(v, ChannelNet_nmse1, color='#FFBB00', marker = 'o', markersize=10, lw=2, label='ChannelNet [23]')
-plt.plot(v, cgan_nmse1, color='#7CBB00', lw=2, marker = 's', markersize=10, label='CGAN [29]')
-plt.plot(v, LSTM_nmse1, color='#00A1F1', lw=2, marker = 'd', markersize=10, label='DNN+LSTM [24]')
+plt.plot(v, ChannelNet_nmse1, color='#FFBB00', marker = 'o', markersize=10, lw=2, label='ChannelNet [24]')
+plt.plot(v, cgan_nmse1, color='#7CBB00', lw=2, marker = 's', markersize=10, label='CGAN [31]')
+plt.plot(v, LSTM_nmse1, color='#00A1F1', lw=2, marker = 'd', markersize=10, label='DNN+LSTM [25]')
 plt.plot(v, RadioMap_nmse1, color='#68217A', lw=2, marker = 'p', markersize=10, label='Radio Map')
 
 plt.xticks(np.arange(0,31,5))
@@ -114,9 +114,9 @@ RadioMap_nmse1 = np.array([0.0668, 0.038,  0.0261, 0.0213, 0.0175, 0.018,  0.016
 
 plt.figure(figsize=(7, 5))
 plt.plot(v, LS_nmse1, color='#F65314', marker = '^', markersize=10, lw=2, label='LS')
-plt.plot(v, ChannelNet_nmse1, color='#FFBB00', marker = 'o', markersize=10, lw=2, label='ChannelNet [23]')
-plt.plot(v, cgan_nmse1, color='#7CBB00', lw=2, marker = 's', markersize=10, label='CGAN [29]')
-plt.plot(v, LSTM_nmse1, color='#00A1F1', lw=2, marker = 'd', markersize=10, label='DNN+LSTM [24]')
+plt.plot(v, ChannelNet_nmse1, color='#FFBB00', marker = 'o', markersize=10, lw=2, label='ChannelNet [24]')
+plt.plot(v, cgan_nmse1, color='#7CBB00', lw=2, marker = 's', markersize=10, label='CGAN [31]')
+plt.plot(v, LSTM_nmse1, color='#00A1F1', lw=2, marker = 'd', markersize=10, label='DNN+LSTM [25]')
 plt.plot(v, RadioMap_nmse1, color='#68217A', lw=2, marker = 'p', markersize=10, label='Radio Map')
 
 plt.xticks(np.arange(0,31,5))
