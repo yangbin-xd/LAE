@@ -103,4 +103,5 @@ fig6.py is the code to plot Fig. 15 in the paper
 numpy                   1.19.5  
 matplotlib              3.6.3  
 keras                   2.6.0  
-tensorflow-gpu          2.6.0 
+tensorflow-gpu          2.6.0  
+__Details please see requirements.txt__
