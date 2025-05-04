@@ -92,12 +92,12 @@ process.py is to process CSI and label
 cgan.py is the benchmark of CGAN  
 dnn.py & lstm.py is the benchmark of DNN + LSTM  
 cnn.py contains LS, ChannelNet and radio map  
-fig1.py is the code to plot Fig. x in the paper  
-fig2.py is the code to plot Fig. 12 in the paper  
-fig3.py is the code to plot Fig. 13 in the paper  
-fig4.py is the code to plot Fig. x in the paper  
-fig5.py is the code to plot Fig. 14 in the paper  
-fig6.py is the code to plot Fig. 15 in the paper    
+fig1.py is the code to plot Fig. 9 in the paper  
+fig2.py is the code to plot Fig. x in the paper  
+fig3.py is the code to plot Fig. 10 in the paper  
+fig4.py is the code to plot Fig. 11 in the paper  
+fig5.py is the code to plot Fig. 12 in the paper  
+fig6.py is the code to plot Fig. 13 in the paper    
 
 ## 🚀 Environment:  
 numpy                   1.19.5  
