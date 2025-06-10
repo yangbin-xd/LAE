@@ -12,12 +12,12 @@ _Welcome to cite this article !_
 @article{yang2025radio,
   title={Radio map-assisted channel estimation for low-altitude economy},
   author={Yang, Bin and Wang, Wei and Zhang, Wei},
-  journal={IEEE Trans. wireless commun.},
+  journal={},
   volume={ },
   number={ },
   pages={ },
   month={ },
-  year={2025},
+  year={},
   publisher={IEEE}
 }
 ```
