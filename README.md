@@ -9,7 +9,7 @@ __"Radio Map-Assisted Channel Estimation for Low-Altitude Economy"__
 _Welcome to cite this article !_
 
 ```bibtex
-@article{yang2025radio,
+@article{yang2026radio,
   title={Radio map-assisted channel estimation for low-altitude economy},
   author={Yang, Bin and Wang, Wei and Zhang, Wei},
   journal={ },
