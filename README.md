@@ -9,7 +9,7 @@ __"Adversarial Learning of Generative Radio Maps via Channel Sensing for Low Alt
 _Welcome to cite this article !_
 
 ```bibtex
-@article{yang2026radio,
+@article{yang2026adversarial,
   title={Adversarial learning of generative radio maps via channel sensing for low altitude economy},
   author={Yang, Bin and Wang, Wei and Zhang, Wei},
   journal={ },
