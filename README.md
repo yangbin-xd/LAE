@@ -27,7 +27,7 @@ Video introducing radio map: https://www.youtube.com/watch?v=KqihgPd0c2o
 __1. Configure virtual environment for this repository__  
 ```python
 # Create virtual environment for this repository (pip install virtualenv)  
-virtualenv env_LAE
+python3 -m venv env_LAE  
 
 # Activate the created environment
 source env_LAE/bin/activate
