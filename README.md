@@ -40,6 +40,13 @@ git clone https://github.com/yangbin-xd/LAE.git
 
 # cd to the folder
 cd LAE
+
+# create model folder  
+mkdir -p model
+
+# download trained models if you do not want to train them by yourself
+# the trained models are in the release and can be downloaded to model folder or use curl  
+curl -s https://api.github.com/repos/yangbin-xd/LAE/releases/latest | grep -oE 'https://[^"]+\.h5' | while read -r url; do curl -L -o "model/$(basename "$url")" "$url"  
 ```
 
 __3. Install the required modules__
