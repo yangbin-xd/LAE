@@ -7,7 +7,7 @@ The scenario of low-altitude economy.
 This is the source code for paper  
 __"Generative Radio Map-Assisted Channel Estimation in Low-Altitude Economy"__  
 
-Video introducing dataset sodtware: https://github.com/yangbin-xd/ray-tracing/blob/main/README.md  
+Video introducing dataset software: https://github.com/yangbin-xd/ray-tracing/blob/main/README.md  
 Video introducing radio map: https://www.youtube.com/watch?v=KqihgPd0c2o
 
 ## 🛠️ Please follow the following steps:
