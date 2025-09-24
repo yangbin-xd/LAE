@@ -5,22 +5,9 @@ The scenario of low-altitude economy.
 
 ## 📝 Information:
 This is the source code for paper  
-__"Adversarial Learning of Generative Radio Maps via Channel Sensing for Low Altitude Economy"__  
-_Welcome to cite this article !_
+__"Generative Radio Map-Assisted Channel Estimation in Low-Altitude Economy"__  
 
-```bibtex
-@article{yang2026adversarial,
-  title={Adversarial learning of generative radio maps via channel sensing for low altitude economy},
-  author={Yang, Bin and Wang, Wei and Zhang, Wei},
-  journal={ },
-  volume={ },
-  number={ },
-  pages={ },
-  month={ },
-  year={ },
-  publisher={IEEE}
-}
-```
+Video introducing dataset sodtware: https://github.com/yangbin-xd/ray-tracing/blob/main/README.md  
 Video introducing radio map: https://www.youtube.com/watch?v=KqihgPd0c2o
 
 ## 🛠️ Please follow the following steps:
