@@ -10,8 +10,6 @@ __"Generative Radio Map-Assisted Channel Estimation in Low-Altitude Economy"__
 Video introducing dataset software: https://github.com/yangbin-xd/ray-tracing/blob/main/README.md  
 Video introducing radio map: https://www.youtube.com/watch?v=KqihgPd0c2o
 
-<embed src="newtork.pdf" width="100%" height="600px" />
-
 ## 🛠️ Please follow the following steps:
 __1. Configure virtual environment for this repository__  
 ```python
