@@ -56,6 +56,9 @@ python preprocess.py
 # benchmark of CGAN
 python cgan.py
 
+# benchmark of UNet
+python unet.py
+
 # benchmark of DNN+LSTM  
 python dnn.py & python lstm.py
 
