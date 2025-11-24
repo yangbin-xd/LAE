@@ -87,8 +87,11 @@ loss is to save training and validation loss
 preprocess.py is to transfer the mat file to npy file  
 process.py is to process CSI and label  
 cgan.py is the benchmark of CGAN  
+unet.py is the benchmark of UNet  
 dnn.py & lstm.py is the benchmark of DNN + LSTM  
 cnn.py contains LS, ChannelNet and radio map  
+ablation.py is the ablation study  
+sample.py is the trajectory generalization   
 fig1.py is the code to plot Fig. 9 in the paper  
 fig2.py is the code to plot Fig. x in the paper  
 fig3.py is the code to plot Fig. 10 in the paper  
