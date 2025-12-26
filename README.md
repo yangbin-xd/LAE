@@ -70,10 +70,9 @@ python cnn.py
 ```
 
 ## 👤 Authors:  
-authors: Bin Yang∗, Wei Wang†, Wei Zhang∗  
+authors: Bin Yang∗, Wei Wang†, Weizheng Zhang†, Wei Zhang∗  
 ∗University of New South Wales, Sydney, NSW 2052, Australia   
-†Peng Cheng Laboratory, Shenzhen 518055, China  
-Email: bin.yang@unsw.edu.au, wangw01@pcl.ac.cn, w.zhang@unsw.edu.au  
+†Harbin Institute of Technology (Shenzhen), Shenzhen 518055, China  
 
 ## 📨 Contact:  
 If you have any questions about this code, you are welcome to contact me via:  
