@@ -15,7 +15,7 @@ https://ieeexplore.ieee.org/abstract/document/11397522
 _Welcome to cite this article !_
 
 ```bibtex
-@article{yang2025radio,
+@article{yang2026generative,
   title={Generative radio map-assisted channel estimation in low-altitude economy},
   author={Yang, Bin and Wang, Wei and Zhang, Weizheng and Zhang, Wei},
   journal={IEEE Trans. Mobile Comput.}
