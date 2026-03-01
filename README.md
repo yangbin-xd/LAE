@@ -1,11 +1,28 @@
 # 🚨 LAE
 
+[![Code](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/yangbin-xd/LAE)
+[![Paper](https://img.shields.io/badge/Paper-IEEE-blue?logo=ieee)](https://ieeexplore.ieee.org/abstract/document/11397522)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+
 <img src='scenario.png' alt='The framework' width='400'>
 The scenario of low-altitude economy.  
 
 ## 📝 Information:
 This is the source code for paper  
 __"Generative Radio Map-Assisted Channel Estimation in Low-Altitude Economy"__  
+
+https://ieeexplore.ieee.org/abstract/document/11397522  
+_Welcome to cite this article !_
+
+```bibtex
+@article{yang2025radio,
+  title={Generative radio map-assisted channel estimation in low-altitude economy},
+  author={Yang, Bin and Wang, Wei and Zhang, Weizheng and Zhang, Wei},
+  journal={IEEE Trans. Mobile Comput.}
+  year={early access},
+  publisher={IEEE}
+}
+```
 
 Video introducing dataset software: https://github.com/yangbin-xd/ray-tracing/blob/main/README.md  
 Video introducing radio map: https://www.youtube.com/watch?v=KqihgPd0c2o
