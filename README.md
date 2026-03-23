@@ -1,4 +1,4 @@
-# 🚨 LAE
+# 🚨 Low-Altitude Economy
 
 [![Code](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/yangbin-xd/LAE)
 [![Paper](https://img.shields.io/badge/Paper-IEEE-blue?logo=ieee)](https://ieeexplore.ieee.org/abstract/document/11397522)
