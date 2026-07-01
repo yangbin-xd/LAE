@@ -23,7 +23,7 @@ _Welcome to cite this article !_
   number={7},
   pages={10 724--10 739},
   month={Jul.},
-  year={2025},
+  year={2026},
   publisher={IEEE}
 }
 ```
